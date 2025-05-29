@@ -1,0 +1,20 @@
+track name="CustomModel" description="Custom Gene Model for DeleRefSeq2" color=200,0,0 visibility=3 group="map" priority=10
+NW_024545513	GEP	CDS	4762119	4762202	.	-	0	gene_id "DeleRefSeq2_sgg"; transcript_id "DeleRefSeq2_sgg-PA";
+NW_024545513	GEP	CDS	4729019	4729207	.	-	0	gene_id "DeleRefSeq2_sgg"; transcript_id "DeleRefSeq2_sgg-PA";
+NW_024545513	GEP	CDS	4728865	4728948	.	-	0	gene_id "DeleRefSeq2_sgg"; transcript_id "DeleRefSeq2_sgg-PA";
+NW_024545513	GEP	CDS	4727726	4727836	.	-	0	gene_id "DeleRefSeq2_sgg"; transcript_id "DeleRefSeq2_sgg-PA";
+NW_024545513	GEP	CDS	4727269	4727505	.	-	0	gene_id "DeleRefSeq2_sgg"; transcript_id "DeleRefSeq2_sgg-PA";
+NW_024545513	GEP	CDS	4727006	4727197	.	-	0	gene_id "DeleRefSeq2_sgg"; transcript_id "DeleRefSeq2_sgg-PA";
+NW_024545513	GEP	CDS	4725757	4725945	.	-	0	gene_id "DeleRefSeq2_sgg"; transcript_id "DeleRefSeq2_sgg-PA";
+NW_024545513	GEP	CDS	4724836	4725285	.	-	0	gene_id "DeleRefSeq2_sgg"; transcript_id "DeleRefSeq2_sgg-PA";
+NW_024545513	GEP	CDS	4720730	4720921	.	-	0	gene_id "DeleRefSeq2_sgg"; transcript_id "DeleRefSeq2_sgg-PA";
+NW_024545513	GEP	stop_codon	4720727	4720729	.	-	.	gene_id "DeleRefSeq2_sgg"; transcript_id "DeleRefSeq2_sgg-PA";
+NW_024545513	GEP	exon	4762119	4762202	.	-	.	gene_id "DeleRefSeq2_sgg"; transcript_id "DeleRefSeq2_sgg-PA";
+NW_024545513	GEP	exon	4729019	4729207	.	-	.	gene_id "DeleRefSeq2_sgg"; transcript_id "DeleRefSeq2_sgg-PA";
+NW_024545513	GEP	exon	4728865	4728948	.	-	.	gene_id "DeleRefSeq2_sgg"; transcript_id "DeleRefSeq2_sgg-PA";
+NW_024545513	GEP	exon	4727726	4727836	.	-	.	gene_id "DeleRefSeq2_sgg"; transcript_id "DeleRefSeq2_sgg-PA";
+NW_024545513	GEP	exon	4727269	4727505	.	-	.	gene_id "DeleRefSeq2_sgg"; transcript_id "DeleRefSeq2_sgg-PA";
+NW_024545513	GEP	exon	4727006	4727197	.	-	.	gene_id "DeleRefSeq2_sgg"; transcript_id "DeleRefSeq2_sgg-PA";
+NW_024545513	GEP	exon	4725757	4725945	.	-	.	gene_id "DeleRefSeq2_sgg"; transcript_id "DeleRefSeq2_sgg-PA";
+NW_024545513	GEP	exon	4724836	4725285	.	-	.	gene_id "DeleRefSeq2_sgg"; transcript_id "DeleRefSeq2_sgg-PA";
+NW_024545513	GEP	exon	4720730	4720921	.	-	.	gene_id "DeleRefSeq2_sgg"; transcript_id "DeleRefSeq2_sgg-PA";
