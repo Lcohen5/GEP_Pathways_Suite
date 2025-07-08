@@ -13,7 +13,7 @@ Output directory:
 To activate this code:
   chmod +x gff2_to_gff3.py
 To run this code:
-  ./gff2_to_gff3_converter.py
+  ./gff2_to_gff3.py
 """
 import os
 import re
