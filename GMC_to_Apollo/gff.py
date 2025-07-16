@@ -4,7 +4,7 @@ Convert GEP Gene Model Checker GFF2 files to Apollo-compatible GFF3 format.
 Handles multiple isoforms correctly, assigning features to the proper transcript.
 
 Input directory:
-  /Users/katherinewarren/Documents/Summer_2025_Reconciliation/Reference_Materials/GMC_to_Apollo/Input
+  /Users/.../Apollo_Trackmaker/input
 
 Output directory:
   /Users/katherinewarren/Documents/Summer_2025_Reconciliation/Reference_Materials/GMC_to_Apollo/Output
@@ -19,7 +19,7 @@ import os
 import re
 
 # ====== Configuration ======
-INPUT_DIR = "/Users/katherinewarren/Documents/Summer_2025_Reconciliation/Reference_Materials/GMC_to_Apollo/Input"
+INPUT_DIR = " /Users/.../Apollo_Trackmaker/input"
 OUTPUT_DIR = "/Users/katherinewarren/Documents/Summer_2025_Reconciliation/Reference_Materials/GMC_to_Apollo/Output"
 OUTPUT_EXT = ".gff3"
 
