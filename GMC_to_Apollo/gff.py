@@ -7,7 +7,7 @@ Input directory:
   /Users/.../Apollo_Trackmaker/input
 
 Output directory:
-  /Users/katherinewarren/Documents/Summer_2025_Reconciliation/Reference_Materials/GMC_to_Apollo/Output
+  /Users/.../Apollo_Trackmaker/output
 
 To activate:
   chmod +x gff2_to_gff3.py
@@ -20,7 +20,7 @@ import re
 
 # ====== Configuration ======
 INPUT_DIR = " /Users/.../Apollo_Trackmaker/input"
-OUTPUT_DIR = "/Users/katherinewarren/Documents/Summer_2025_Reconciliation/Reference_Materials/GMC_to_Apollo/Output"
+OUTPUT_DIR = "/Users/.../Apollo_Trackmaker/output"
 OUTPUT_EXT = ".gff3"
 
 # Ensure output directory exists
