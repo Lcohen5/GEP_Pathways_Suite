@@ -17,25 +17,32 @@ LOC111594728	6880787	6886873	NW_022045678	+
 🛑 Before you get started
 1. Install Python (if not already installed):
 Get it here: https://www.python.org/downloads
-2. Create a virtual environment in Terminal: 
+
+2. Place your input Excel file (e.g., your_genes.xlsx) in the same folder as the script.
+
+3. Open the .py script and follow the instructions to modify the code to your specific Excel name & sheet. 
+
+3. Open Terminal and ortient to the Gene_CDS_Range_Extractor using the cd Command:
+
+cd /path/to/your/script
+
+4. Create a virtual environment in Terminal: 
 
 python3 -m venv venv
 source venv/bin/activate  # macOS/Linux
 # OR
 venv\Scripts\activate      # Windows
 
-3. Install required library to open Excel files:
+5. Install required library to open Excel files:
 
 python3 -m pip install pandas openpyxl
 
-4. Orient terminal to the Gene_CDS_Range_Extractor:
-
-
-
 😎To Use:
-Place your input Excel file (e.g., your_genes.xlsx) in the same folder as the script.
-Run the script:
+6. Run the script:
 
-python3 analyze_genes.py
+python3 Gene_CDS_Range_Extractor.py
+
 The output will be saved as:
 max_range_per_gene.xlsx
+
+
