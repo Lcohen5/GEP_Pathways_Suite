@@ -28,3 +28,14 @@ venv\Scripts\activate      # Windows
 
 python3 -m pip install pandas openpyxl
 
+4. Orient terminal to the Gene_CDS_Range_Extractor:
+
+
+
+😎To Use:
+Place your input Excel file (e.g., your_genes.xlsx) in the same folder as the script.
+Run the script:
+
+python3 analyze_genes.py
+The output will be saved as:
+max_range_per_gene.xlsx
