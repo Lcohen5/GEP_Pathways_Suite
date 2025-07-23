@@ -57,4 +57,4 @@ python3 Gene_CDS_Range_Extractor.py
 The output will be saved as:
 max_range_per_gene.xlsx
 
-
+_**Made by Victoria del Cid with assistance of Microsoft Copilot AI.**_
