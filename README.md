@@ -3,6 +3,8 @@ A program suite to aid in the Genomics Education Partnership Pathways project
 
 **Combine_Your_Files:** Uses Python3 to combine all FASTA or PEP files in a given directory into one file
 
+**Gene_CDS_Range_Extractor:** To prepare data gathered from from the table browser for use in synteny analysis
+
 **GMC_to_Apollo:** Prepares files from both the Gene Model Checker and 
 
 **Isoform_Coordinate_Maker:** Collates coordinates for complicated or long CDS sequences into one list ready for copy/paste into the gene model checker
